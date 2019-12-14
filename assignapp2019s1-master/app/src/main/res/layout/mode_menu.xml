@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/background"
+    >
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/H2CE"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif"
+        android:text="VS COMPUTER" />
+
+
+    <Button
+        android:id="@+id/H2CE"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/H2CD"
+        android:layout_centerInParent="true"
+        android:onClick="clickH2CE"
+        android:text="easy" />
+
+    <Button
+        android:id="@+id/H2CD"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView3"
+        android:layout_centerInParent="true"
+        android:onClick="clickH2CD"
+        android:text="difficult" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/H2HClient"
+        android:layout_centerInParent="true"
+        android:fontFamily="serif"
+        android:text="VS HUMAN" />
+
+    <Button
+        android:id="@+id/H2HClient"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/H2HServer"
+        android:layout_centerInParent="true"
+        android:onClick="clickH2HClient"
+        android:text="Client" />
+
+    <Button
+        android:id="@+id/H2HServer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:onClick="clickH2HServer"
+        android:text="Server" />
+
+
+
+
+    <Button
+        android:id="@+id/tips"
+        android:layout_width="54dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="73dp"
+        android:layout_marginLeft="73dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginBottom="139dp"
+        android:onClick="clickTips"
+        android:textColor="@color/colorAccent"
+        android:fontFamily="sans-serif"
+        android:text="TIPS" />
+</RelativeLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".H2HClient"
+    android:orientation="vertical"
+    android:background="@mipmap/bg1">
+
+    <EditText
+        android:id="@+id/et_ip"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:hint="please input the IP of another player"/>
+
+    <EditText
+        android:id="@+id/et_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="155dp"
+        tools:layout_editor_absoluteY="206dp"
+        tools:ignore="MissingConstraints"
+        android:visibility="gone"
+        android:hint="Input the context:"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Connect" />
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Send"
+            android:onClick="send"/>
+
+        <Button
+            android:id="@+id/regret"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Regret"
+            android:onClick="Regret"/>
+    </LinearLayout>
+
+
+
+
+    <com.example.assignapp2019s1.H2HClientBoardview
+        android:id="@+id/H2HClientboardView"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:background="@color/colorTransp"/>
+
+
+</LinearLayout>

@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d7be427481e5d8c964ca7ac735e32096/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fangle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8fecc63cdf2f5658d002d1c81e369958/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cc6de405eef8b01f12d8de634adef5d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2dd1f8983176feaaaa00a9658737d7db/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b9cf025ce9ef4d90ca584110793bc6fd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c60e2f050a553e375fe2e9fc900bf464/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64c90ddbefd86393eb10cb9b19c9f640/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/42f58194d5a6b21481547b2690a650ce/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d87537d4c3f0780bae4c90ad0b47d21b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/00a85a007d9f6a68b293a1328ab57f20/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e9176e4ee29407c7c8cba370fc215d3c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e091ae1c14a48f92775372cb1be21927/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/357f256169321a5a66c8b685432c2295/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/09a1adb363cb75b76728a5e339785e98/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/74641c6f0feeb1be78d96133095912b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a89a2ecb97d0696c62e33b224780c73/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9117e5726b6e880ce44c698c754616c0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bef2f70768eeb8c9840a764b99a4be4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83fd7f9dab96a9d4cdcfe8d1283c2f59/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bcd5648dd15a636d91cb349fefcd4ec6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8900e866fa837cca35695f9a18890e1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f8a7b2a58e03db323136453a5098302/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d2810a8b410235be975e14bee77a6970/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a66039f32b84fd32269f09f4f543ff0e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d2d674b2c08216dccb139b0683877c8f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4b8517811e2f45144ff7a4298442c85/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:1-30:12
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:4:5-75
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:4:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:7:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fangle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8fecc63cdf2f5658d002d1c81e369958/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fangle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8fecc63cdf2f5658d002d1c81e369958/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a89a2ecb97d0696c62e33b224780c73/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a89a2ecb97d0696c62e33b224780c73/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.assignapp2019s1.FaceActivity
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:14:9-19:20
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:15:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.assignapp2019s1.History
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:20:9-44
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:20:19-42
+activity#com.example.assignapp2019s1.H2CActivity
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:21:9-48
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:21:19-46
+activity#com.example.assignapp2019s1.ModeSelect
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:22:9-47
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:22:19-45
+activity#com.example.assignapp2019s1.H2HServer
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:23:9-56
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:23:19-44
+activity#com.example.assignapp2019s1.H2HClient
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:24:9-56
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:24:19-44
+activity#com.example.assignapp2019s1.WelcomeActivity
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:25:9-62
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:25:19-50
+activity#com.example.assignapp2019s1.TipsActivity
+ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:26:9-59
+	android:name
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml:26:19-47
+uses-sdk
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d7be427481e5d8c964ca7ac735e32096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d7be427481e5d8c964ca7ac735e32096/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fangle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8fecc63cdf2f5658d002d1c81e369958/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/fangle/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/8fecc63cdf2f5658d002d1c81e369958/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cc6de405eef8b01f12d8de634adef5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/cc6de405eef8b01f12d8de634adef5d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2dd1f8983176feaaaa00a9658737d7db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/2dd1f8983176feaaaa00a9658737d7db/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b9cf025ce9ef4d90ca584110793bc6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/b9cf025ce9ef4d90ca584110793bc6fd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c60e2f050a553e375fe2e9fc900bf464/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/c60e2f050a553e375fe2e9fc900bf464/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64c90ddbefd86393eb10cb9b19c9f640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/64c90ddbefd86393eb10cb9b19c9f640/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/42f58194d5a6b21481547b2690a650ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/42f58194d5a6b21481547b2690a650ce/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d87537d4c3f0780bae4c90ad0b47d21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/d87537d4c3f0780bae4c90ad0b47d21b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/00a85a007d9f6a68b293a1328ab57f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/00a85a007d9f6a68b293a1328ab57f20/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e9176e4ee29407c7c8cba370fc215d3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/e9176e4ee29407c7c8cba370fc215d3c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e091ae1c14a48f92775372cb1be21927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/e091ae1c14a48f92775372cb1be21927/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/357f256169321a5a66c8b685432c2295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/357f256169321a5a66c8b685432c2295/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/09a1adb363cb75b76728a5e339785e98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/09a1adb363cb75b76728a5e339785e98/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/74641c6f0feeb1be78d96133095912b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/74641c6f0feeb1be78d96133095912b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/25824c0516f9f10f86e70d01ff6f15ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a89a2ecb97d0696c62e33b224780c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/8a89a2ecb97d0696c62e33b224780c73/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9117e5726b6e880ce44c698c754616c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/9117e5726b6e880ce44c698c754616c0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bef2f70768eeb8c9840a764b99a4be4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/9bef2f70768eeb8c9840a764b99a4be4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83fd7f9dab96a9d4cdcfe8d1283c2f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/83fd7f9dab96a9d4cdcfe8d1283c2f59/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bcd5648dd15a636d91cb349fefcd4ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/bcd5648dd15a636d91cb349fefcd4ec6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8900e866fa837cca35695f9a18890e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/e8900e866fa837cca35695f9a18890e1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f8a7b2a58e03db323136453a5098302/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/7f8a7b2a58e03db323136453a5098302/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d2810a8b410235be975e14bee77a6970/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/d2810a8b410235be975e14bee77a6970/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a66039f32b84fd32269f09f4f543ff0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/a66039f32b84fd32269f09f4f543ff0e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d2d674b2c08216dccb139b0683877c8f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/fangle/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/d2d674b2c08216dccb139b0683877c8f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4b8517811e2f45144ff7a4298442c85/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/fangle/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/e4b8517811e2f45144ff7a4298442c85/AndroidManifest.xml:20:5-44
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		ADDED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/fangle/Desktop/assignapp2019s1-master/app/src/main/AndroidManifest.xml

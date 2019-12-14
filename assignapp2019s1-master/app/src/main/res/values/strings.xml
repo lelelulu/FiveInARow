@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FiveInARow</string>
+    <string name="aitext">If you want to play with the computer, please choose the difficulty level by pressing “EASY” or “DIFFICULT”. And then in the game, “HISTORY” is for the history of wins and loses viewing and “BACK” is for back to the menu function</string>
+    <string name="sockettext">If you want to play with another player, you can press “CLIENT” or “SERVER”. One of you should turn on the hotspot and choose “CLIENT” and the other one should connect to that hotspot and choose “SERVER”. Player on the client side should enter the IP which is shown on the other player’s screen and then press “CONNECT”. The two players then can add their pieces and let their opponent know by pressing “SEND” and “REGRET” is for the tack-back function.</string>
+</resources>
